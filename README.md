@@ -15,3 +15,15 @@ The following outlines what you need to do.
 ## Step 4 - Climate App
         Now that you have completed your initial analysis, design a Flask api based on the queries that you have just developed.
         Use FLASK to create your routes.
+
+
+
+##How to create a folder in Github
+You cannot create an empty folder and then add files to that folder, but rather creation of a folder must happen together with adding of at least a single file. On github you can do it this way:
+
+go to the folder inside which you want to create another folder
+click on New file
+on the text field for the file name, first write the folder name you want to create
+then type /, this creates a folder
+you can add more folders similarly
+finally, give the new file a name, (eg. .gitkeep which is usually used to make git track otherwise empty folders) and finally click Commit new file.
