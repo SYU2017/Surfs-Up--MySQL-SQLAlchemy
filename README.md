@@ -3,8 +3,9 @@ SQLAlchemy climate analysis and climate analysis api on Hawaii
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! 
 To help with your trip planning, you decided to do some climate analysis on the area. 
 You have decided to share your ninja analytical skills with the community by providing a climate analysis api.
-  
-![picture](Daily_normals_of_Temperature_in_Hawaii.png)
+
+
+![picture](Daily normals of Temperature in Hawaii.png)
 
 ![picture](Hawaii_Precipitation_in_the_Last_12 months.png)
 
