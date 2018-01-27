@@ -4,13 +4,13 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 To help with your trip planning, you decided to do some climate analysis on the area. 
 You have decided to share your ninja analytical skills with the community by providing a climate analysis api.
   
-![picture](Daily normals of Temperature in Hawaii.png)
+![picture](Daily_normals_of_Temperature_in_Hawaii.png)
 
-![picture](Hawaii Precipitation in the Last 12 months.png)
+![picture](Hawaii_Precipitation_in_the_Last_12 months.png)
 
-![picture](Histogram of Temperature.png.png)
+![picture](Histogram_of_Temperature.png)
 
-![picture](Trip Avg Temp.png.png)
+![picture](Trip_Avg_Temp.png)
 
 
 The following outlines what you need to do.
