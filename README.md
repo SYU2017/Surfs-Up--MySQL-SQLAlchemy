@@ -1,17 +1,18 @@
 # Week11-Sequelize-SQLAlchemy
 SQLAlchemy climate analysis and climate analysis api on Hawaii
+
+![picture](Daily normals of Temperature in Hawaii.png)
+
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! 
 To help with your trip planning, you decided to do some climate analysis on the area. 
 You have decided to share your ninja analytical skills with the community by providing a climate analysis api.
 
 
-![picture](Daily normals of Temperature in Hawaii.png)
+![picture](Hawaii Precipitation in the Last 12 months.png)
 
-![picture](Hawaii_Precipitation_in_the_Last_12 months.png)
+![picture](Histogram of Temperature.png)
 
-![picture](Histogram_of_Temperature.png)
-
-![picture](Trip_Avg_Temp.png)
+![picture](Trip Avg Temp.png)
 
 
 The following outlines what you need to do.
