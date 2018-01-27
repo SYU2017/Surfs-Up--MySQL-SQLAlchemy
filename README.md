@@ -5,7 +5,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 To help with your trip planning, you decided to do some climate analysis on the area. 
 You have decided to share your ninja analytical skills with the community by providing a climate analysis api.
 
-![picture](image/Daily _normals_of_Temperature_in_Hawaii.png)
+![picture](image/Daily_normals_of_Temperature_in_Hawaii.png)
 
 ![picture](image/Hawaii_Precipitation_in_the_Last_12_months.png)
 
