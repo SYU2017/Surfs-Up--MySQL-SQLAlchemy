@@ -1,5 +1,5 @@
 # Week11-Sequelize-SQLAlchemy
-SQLAlchemy climate analysis and climate analysis api on Hawaii
+# SQLAlchemy climate analysis and climate analysis api on Hawaii
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! 
 To help with your trip planning, you decided to do some climate analysis on the area. 
@@ -28,9 +28,22 @@ The following outlines what you need to do.
         Now that you have completed your initial analysis, design a Flask api based on the queries that you have just developed.
         Use FLASK to create your routes.
 
+# Fetching Resources
+Fetch the required resources using the fetch_data.py script.
+
+python fetch_data.py
+Troubleshooting
+Note that we are using the datadotworld-py Python api to fetch our dataset. You must install the library to use the fetch script.
+
+# Install datadotworld-py
+conda install -c conda-forge datadotworld-py
+Or with pip
+
+pip install datadotworld-py
 
 
-##How to create a folder in Github
+
+#  How to create a folder in Github
 
      You cannot create an empty folder and then add files to that folder, but rather creation of a folder must happen together with adding      of at least a single file. On github you can do it this way:
 
